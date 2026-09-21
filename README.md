@@ -2,7 +2,7 @@
 
 Welcome to Venture Intelligence, an automated pipeline that leverages an AI Agent to autonomously research "Hurdles" and strategic "Visions."
 
-> **Note:** This is currently a **Demo Version**. The project is actively being developed further to include **Direct Reddit API and GitHub native integration**, deeper agent flows, and multi-agent coordination.
+> **Note:** This is currently a **Demo Version\*\*. **Demo data is included in the backend for reference.** The project is actively being developed further to include **Direct Reddit API and GitHub native integration**, deeper agent flows, and multi-agent coordination.
 
 ---
 
