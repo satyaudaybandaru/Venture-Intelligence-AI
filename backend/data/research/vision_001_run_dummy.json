@@ -1,0 +1,87 @@
+{
+  "market_summary": "The market for AI-powered sales assistants is growing rapidly, but many solutions are focused on enterprise customers, leaving a gap for practical, easy-to-use tools for small businesses.",
+  "business_models": [
+    {
+      "name": "B2B SaaS - Subscription Model",
+      "description": "Charging small businesses a monthly fee for an AI sales assistant that integrates with their existing CRM.",
+      "market_gap": "Current tools require complex setup and integrations. Small businesses need a 'plug-and-play' solution that works out of the box with their email.",
+      "market_gap_score": 85,
+      "success_rate": 78,
+      "solutions": [
+        {
+          "title": "Email-first AI Qualifier",
+          "description": "An AI agent that lives directly in Gmail/Outlook and automatically drafts qualifying responses to inbound leads.",
+          "scores": {
+            "success_evidence": 80,
+            "practicality": 90,
+            "budget_fit": 85,
+            "similarity": 70,
+            "currency": "USD"
+          },
+          "estimated_budget": {
+            "min": 5000,
+            "max": 15000,
+            "currency": "USD"
+          },
+          "implementations": [
+            {
+              "id": "impl_email_1",
+              "person_name": "Sarah Developer",
+              "role": "Indie Hacker",
+              "similarity": 0.85,
+              "description": "Built a seamless Gmail integration using OpenAI's API to draft responses.",
+              "github": "https://github.com/sarah/ai-qualifier",
+              "contact": "mailto:sarah@example.com"
+            }
+          ],
+          "overall_score": 83.5
+        }
+      ]
+    },
+    {
+      "name": "Usage-Based API / White-label",
+      "description": "Providing the AI qualification logic as an API for local marketing agencies to offer to their clients.",
+      "market_gap": "Agencies lack the technical expertise to build AI agents themselves but have direct access to the target small business customers.",
+      "market_gap_score": 92,
+      "success_rate": 82,
+      "solutions": [
+        {
+          "title": "Agency-focused Qualification Engine",
+          "description": "A headless AI engine with a simplified agency dashboard to manage multiple client accounts.",
+          "scores": {
+            "success_evidence": 75,
+            "practicality": 80,
+            "budget_fit": 90,
+            "similarity": 75,
+            "currency": "USD"
+          },
+          "estimated_budget": {
+            "min": 10000,
+            "max": 25000,
+            "currency": "USD"
+          },
+          "implementations": [
+            {
+              "id": "impl_agency_1",
+              "person_name": "Tom Code",
+              "role": "Freelance Backend Dev",
+              "similarity": 0.90,
+              "description": "Created a multi-tenant AI routing API for a local SEO agency.",
+              "demo": "https://demo.tomcode.dev",
+              "portfolio": "https://tomcode.dev"
+            }
+          ],
+          "overall_score": 80.0
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dummy Source 1",
+      "url": "https://example.com/source1",
+      "text": "This is a dummy source to show in the UI."
+    }
+  ],
+  "research_mode": "deep_agent_ai"
+}

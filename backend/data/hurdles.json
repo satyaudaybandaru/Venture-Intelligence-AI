@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hurdle_3983c2b6",
+    "title": "communication among different teams",
+    "description": "we have a marketing team and sales team, whatever the marketing team plans, is not reaching sales team properly",
+    "priority": 1,
+    "status": "failed",
+    "run_id": "run_446f2f518a",
+    "executions": [
+      "run_f6f229c692",
+      "run_9029637df5",
+      "run_446f2f518a"
+    ]
+  },
+  {
+    "id": "hurdle_f79fcec6",
+    "title": "Task pipeline",
+    "description": "We have a difficulty in processing task from one team to another team, for example ads management team couldn't cope up with bussiness planning team",
+    "priority": 2,
+    "status": "not_started"
+  },
+  {
+    "id": "hurdle_001",
+    "title": "Customer acquisition is expensive",
+    "description": "The company relies heavily on paid acquisition and wants lower-cost repeatable channels.",
+    "priority": 3,
+    "status": "not_started"
+  },
+  {
+    "id": "hurdle_002",
+    "title": "Manual operational work is slowing growth",
+    "description": "Too many repetitive internal workflows require founder or employee time.",
+    "priority": 4,
+    "status": "not_started"
+  }
+]

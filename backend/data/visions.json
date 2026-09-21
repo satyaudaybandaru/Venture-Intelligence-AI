@@ -1,0 +1,19 @@
+[
+    {
+        "id":  "vision_001",
+        "title":  "Build an AI-powered sales assistant",
+        "description":  "Create a practical product that helps small businesses qualify leads, follow up, and improve sales productivity.",
+        "priority":  1,
+        "status":  "completed",
+        "executions":  [
+                           "run_dummy"
+                       ]
+    },
+    {
+        "id":  "vision_002",
+        "title":  "Expand into a scalable SaaS business",
+        "description":  "Turn internal capabilities into a repeatable software product with a sustainable business model.",
+        "priority":  2,
+        "status":  "not_started"
+    }
+]
