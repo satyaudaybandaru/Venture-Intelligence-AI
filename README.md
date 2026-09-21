@@ -38,7 +38,7 @@ Designed to help overcome technical or business roadblocks by finding and analyz
 
 1. **Search web, GitHub, and Reddit**: The agent formulates targeted queries based on the hurdle, pulling real experiences and code repositories.
 2. **Discover solutions & implementations**: It finds how others actually overcame the exact problem in the real world.
-3. **Extract developers & portfolios**: It zeroes in on who implemented it. _(Rule: 60% preference for Individual Developers over companies)._
+3. **Extract developers & portfolios**: It zeroes in on who implemented it. _(Rule: 60% preference for Individual Developers, with the remaining 40% completely unreserved)._
 4. **Score success, budget, & similarity**: Every solution is ranked by its success probability, practicality, and budget fit based on real-world evidence.
 5. **Generate actionable steps**: The AI stores the data, allowing the user to view detailed contact info (GitHub, Portfolios, Demo links) to reach out or replicate their practical success.
 
