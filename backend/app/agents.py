@@ -158,7 +158,7 @@ Wait, to make sure you output correct JSON, you MUST use your built-in tool or f
 For Hurdles:
 - Rank each solution based on success rate + practicality + budget + similarity.
 - Extract implementations who actually did it, with their role, github/portfolio links if available.
-- IMPORTANT FOR CONTACTS: Prefer individual developers (60%) and other entities/companies (40% unreserved).
+- IMPORTANT FOR CONTACTS: Prefer individual developers (60%), with the remaining (40%) completely unreserved.
 - IMPORTANT: When extracting the contact link, actively seek out and include their related work/portfolio to the solution in the contact information.
 """
         SchemaModel = HurdleResult
